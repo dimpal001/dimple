@@ -14,6 +14,12 @@ body {
   color: #272829;
 }
 
+p{
+  text-align: justify;
+}
+.testimonial-item p{
+  text-align: center;
+}
 a {
   color: #149ddd;
   text-decoration: none;
